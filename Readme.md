@@ -1,4 +1,4 @@
-# Class Examples
+# Class Notebook
 
 This repository contains code worked on during class sessions/live sessions, or other code randomly created throughout the class.
 

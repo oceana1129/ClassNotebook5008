@@ -8,12 +8,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void memory_example() {
-    int *p = malloc(sizeof(int));
-    *p = 5;
-    printf("p = %p, *p = %d\n", p, *p);
-    free(p);
-}
 
 void memory_stack_example() {
     int x = 5;
